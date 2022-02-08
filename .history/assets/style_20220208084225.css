@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.img_full{
+    position: relative;
+    z-index: -1;
+    width: 87em;
+}
+.content_heading{
+    position: absolute;
+    top: 50%;
+    te
+    left: 50%;
+}

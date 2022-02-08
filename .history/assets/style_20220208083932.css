@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.img_full{
+    z-index: -1;
+    width: 83%;
+    height: 100%;
+}
